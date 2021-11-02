@@ -9,9 +9,9 @@ Developed by Raj Pratap Singh(Psudohuman)
 
 Technologies used-
 
-1.Java
+1. Java
 
-2.SpringBoot
+2. SpringBoot
 
 3. Swagger
  
