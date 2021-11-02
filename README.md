@@ -7,8 +7,12 @@ Developed by Raj Pratap Singh(Psudohuman)
 
 2. The user can login and order the products.
 
-#Technologies used-
+Technologies used-
+
 1.Java
-2.SpringBoot 
+
+2.SpringBoot
+
 3. Swagger
+ 
 4. Postman (for testing)
